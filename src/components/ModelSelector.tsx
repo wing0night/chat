@@ -18,21 +18,21 @@ const availableCharacters: Character[] = [
     id: 'sherlock',
     name: 'Sherlock Holmes',
     description: 'The world\'s greatest detective',
-    avatarUrl: '/src/images/1.png',
+    avatarUrl: 'https://github.com/wing0night/chat/blob/master/src/images/1.png',
     greeting: "Elementary, my dear friend. What mystery shall we solve today?"
   },
   {
     id: 'einstein',
     name: 'Albert Einstein',
     description: 'Theoretical physicist and genius',
-    avatarUrl: '/src/images/2.png',
+    avatarUrl: 'https://github.com/wing0night/chat/blob/master/src/images/2.png',
     greeting: "Everything is relative! What would you like to learn about?"
   },
   {
     id: 'shakespeare',
     name: 'William Shakespeare',
     description: 'The immortal bard',
-    avatarUrl: '/src/images/3.png',
+    avatarUrl: 'https://github.com/wing0night/chat/blob/master/src/images/3.png',
     greeting: "To chat or not to chat, that is the question!"
   }
 ];

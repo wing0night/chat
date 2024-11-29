@@ -24,7 +24,7 @@ export default function Home() {
     id: 'sherlock',
     name: 'Sherlock Holmes',
     description: 'The world\'s greatest detective',
-    avatarUrl: '/../images/1.png',
+    avatarUrl: 'https://github.com/wing0night/chat/blob/master/src/images/1.png',
     greeting: "Elementary, my dear friend. What mystery shall we solve today?"
   });
 

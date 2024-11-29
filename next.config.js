@@ -4,12 +4,13 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'images.unsplash.com',
+        hostname: 'github.com',
         port: '',
         pathname: '/**',
       },
     ],
+    domains: ['github.com'], // 添加 github.com 到 domains 数组
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
